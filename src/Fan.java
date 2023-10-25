@@ -3,7 +3,7 @@
  * Date created: 25/10/2023
  * Description: The class implements a basic ceiling fan. The fan has 2 cords, each of which change speed or direction.
  * When the speed is on high, pulling the speed cord will stop the fan.  When the direction cord is pulled, the fan
- * starts in the forward direction. Pulling the direction cord again reverses the direction of the fan will keeping
+ * starts in the forward direction. Pulling the direction cord again reverses the direction of the fan while keeping
  * the speed consistent.
  */
 
